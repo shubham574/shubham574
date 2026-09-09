@@ -13,11 +13,11 @@ Freelance developer building web apps and exploring AI tools — from full-stack
 
 ## 🛠️ Tech I work with
 
-TypeScript · JavaScript · Dart · React · Node.js · CSS · [add anything else: Python, MongoDB, Express, Flutter, Tailwind, etc.]
+TypeScript · JavaScript · Dart · React · Node.js · CSS · Python . MongoDB . Express . Flutter . Tailwind
 
 ## 📫 Reach me
 
-- Portfolio: [your website, if you have one]
+
 - LinkedIn: [linkedin.com/in/shubham-maurya-937511309](https://www.linkedin.com/in/shubham-maurya-937511309/)
 - Email: shubhamm4975@gmail.com
 
